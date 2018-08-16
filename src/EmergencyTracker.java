@@ -120,6 +120,5 @@ public class EmergencyTracker
         System.out.println("REMOVE (Take the next emergency off the list)");
         System.out.println("HOWMANY (Print how many emergencies are left)");
         System.out.println("PANIC (Clear the list of emergencies)");
-
     }
 }
